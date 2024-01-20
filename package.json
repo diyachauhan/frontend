@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "it is a test package for npm",
+  "main": "index.js",
+  "scripts": {
+    "start": " nodemon rest.js"
+  },
+  "author": "Diya chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodeman": "^1.1.2"
+  }
+}
